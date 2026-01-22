@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 Finding a compatible roommate is often challenging due to differences in lifestyle, habits, and personal preferences.  
 DormMate Finder addresses this problem by collecting structured user data and applying clustering and similarity-based algorithms to recommend the most compatible roommate matches.
@@ -13,14 +13,14 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🎯 Target Users
+##  Target Users
 
 - Students living in dormitories or shared housing
 - Housing administrators seeking data-driven roommate assignment support
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **User Authentication**
   - Secure sign-up and login using Firebase Authentication
@@ -57,7 +57,7 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Mobile Application
 - **Flutter**
@@ -78,7 +78,7 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🏗️ Architecture Highlights
+##  Architecture Highlights
 
 - Modular and scalable Flutter project structure
 - Separation of concerns using models, providers, services, and UI layers
@@ -87,7 +87,7 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
 - Secure authentication via Firebase
 - Encrypted data transmission
@@ -96,7 +96,7 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🚀 Supported Platforms
+## Supported Platforms
 
 - Android  
 - iOS  
@@ -105,7 +105,7 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Machine learning–based matching enhancements
 - Real-time chat between matched users
@@ -116,13 +116,13 @@ The application focuses on improving living experiences, reducing conflicts, and
 
 ---
 
-## 📄 License
+##  License
 
 This project was developed as part of **CS310 coursework** and is intended for educational and demonstration purposes.
 
 ---
 
-## 👤 Project Type
+##  Project Type
 
 Academic group project focused on **mobile development**, **data-driven matching**, and **scalable application design**.
 
