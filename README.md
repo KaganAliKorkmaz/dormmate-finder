@@ -1,4 +1,4 @@
-# DormMate Finder 🏠
+# DormMate Finder 
 
 **DormMate Finder** is a Flutter-based roommate matching application designed to help students find compatible roommates in dormitories and shared housing environments using data-driven matching algorithms.
 
