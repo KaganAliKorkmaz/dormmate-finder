@@ -112,19 +112,6 @@ The application focuses on improving living experiences, reducing conflicts, and
 - Advanced filtering and recommendation options
 - Multi-language support
 - Push notifications
-- Dark mode
-
----
-
-##  License
-
-This project was developed as part of **CS310 coursework** and is intended for educational and demonstration purposes.
-
----
-
-##  Project Type
-
-Academic group project focused on **mobile development**, **data-driven matching**, and **scalable application design**.
 
 ---
 
